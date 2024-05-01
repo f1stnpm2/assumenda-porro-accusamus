@@ -1,18 +1,83 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@f1stnpm2/assumenda-porro-accusamus",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "f1st",
   "license": "MIT",
+  "dependencies": {
+    "@crabas0npm/possimus-fugit-nulla": "^1.0.0",
+    "@f1stnpm/corporis-velit-deleniti-temporibus": "^1.0.0",
+    "@f1stnpm/dolor-officia-est-asperiores": "^1.0.0",
+    "@f1stnpm/ea-sunt-delectus-nihil": "^1.0.0",
+    "@f1stnpm/eius-ab-blanditiis-voluptas": "^1.0.0",
+    "@f1stnpm/molestias-sint-cupiditate-illum": "^1.0.0",
+    "@f1stnpm/repellat-eveniet-pariatur-voluptas": "^1.0.0",
+    "@f1stnpm/tenetur-dicta-praesentium-explicabo": "^1.0.0",
+    "@f1stnpm/vitae-blanditiis-sint-tempore": "^1.0.0",
+    "remind-works-8th": "^1.0.2"
+  },
+  "keywords": [
+    "Array.prototype.flatMap",
+    "postcss-plugin",
+    "require",
+    "launch",
+    "ascii",
+    "fastcopy",
+    "look",
+    "debug",
+    "pyyaml",
+    "typescript",
+    "cloudwatch",
+    "monorepo",
+    "ECMAScript 2020",
+    "Object.getPrototypeOf",
+    "ES2020",
+    "Int32Array",
+    "trimEnd",
+    "flux",
+    "getopt",
+    "nodejs",
+    "child",
+    "Object.assign",
+    "eslint-plugin",
+    "ECMAScript 2023",
+    "password",
+    "RxJS",
+    "JSON",
+    "Set",
+    "spinners",
+    "diff",
+    "extend",
+    "identifiers",
+    "promises",
+    "flatten",
+    "protocol-buffers",
+    "color",
+    "mkdirp",
+    "Array.prototype.filter",
+    "react",
+    "ebs",
+    "sameValueZero",
+    "es6",
+    "hot",
+    "validation",
+    "get",
+    "fs",
+    "log",
+    "obj",
+    "$.extend",
+    "call",
+    "xdg",
+    "reduce"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/f1stnpm2/assumenda-porro-accusamus.git"
   },
-  "dependencies": {
-    
-  }
+  "homepage": "https://github.com/f1stnpm2/assumenda-porro-accusamus/#readme",
+  "bugs": {
+    "url": "https://github.com/f1stnpm2/assumenda-porro-accusamus/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
